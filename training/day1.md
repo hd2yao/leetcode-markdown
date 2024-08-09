@@ -1,8 +1,8 @@
 # 😝 day1
 
-### 代码随想录算法训练营第一天| 704. 二分查找、27. 移除元素
+## 代码随想录算法训练营第一天| 数组 704 27
 
-#### 704 二分查找
+### 704 二分查找
 
 题目链接：[https://leetcode.cn/problems/binary-search/](https://leetcode.cn/problems/binary-search/)
 
@@ -52,7 +52,7 @@ for left <= right {
 
 [完整代码](https://github.com/hd2yao/leetcode/tree/master/training/day1/0704\_binary\_search.go)
 
-#### 27 移除元素
+### 27 移除元素
 
 题目链接：[https://leetcode.cn/problems/remove-element/](https://leetcode.cn/problems/remove-element/)
 
