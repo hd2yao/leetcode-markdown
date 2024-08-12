@@ -9,3 +9,7 @@
   * [😌 day9](training/day9.md)
   * [🤨 day10](training/day10.md)
   * [😁 day11](training/day11.md)
+  * [🤗 day14](training/day14.md)
+  * [😫 day15](training/day15.md)
+  * [🤬 day17](training/day17.md)
+  * [😤 day21](training/day21.md)
