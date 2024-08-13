@@ -14,3 +14,4 @@
   * [🤬 day17](training/day17.md)
   * [😤 day21](training/day21.md)
   * [😬 day56](training/day56.md)
+  * [😋 day57](training/day57.md)
