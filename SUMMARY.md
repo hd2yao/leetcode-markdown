@@ -26,3 +26,4 @@
   * [😭 day36](training/day36.md)
   * [😬 day56](training/day56.md)
   * [😋 day57](training/day57.md)
+  * [😵‍💫 day58](training/day58.md)
