@@ -41,3 +41,4 @@
   * [😵‍💫 day58](training/day58.md)
   * [🥱 day59](training/day59.md)
   * [🥳 day60](training/day60.md)
+  * [😏 day63](training/day63.md)

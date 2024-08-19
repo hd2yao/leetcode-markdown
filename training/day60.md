@@ -123,7 +123,7 @@ for i := 1; i <= len(nums); i++ {
 
 ### 474 一和零
 
-题目链接：https://leetcode.cn/problems/ones-and-zeroes/[https://leetcode.cn/problems/ones-and-zeroes/](https://leetcode.cn/problems/ones-and-zeroes/)
+题目链接：[https://leetcode.cn/problems/ones-and-zeroes/](https://leetcode.cn/problems/ones-and-zeroes/)
 
 文章讲解：[https://programmercarl.com/0474.%E4%B8%80%E5%92%8C%E9%9B%B6.html](https://programmercarl.com/0474.%E4%B8%80%E5%92%8C%E9%9B%B6.html)
 
