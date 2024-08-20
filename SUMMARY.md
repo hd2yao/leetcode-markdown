@@ -42,3 +42,4 @@
   * [🥱 day59](training/day59.md)
   * [🥳 day60](training/day60.md)
   * [😏 day63](training/day63.md)
+  * [😁 day64](training/day64.md)
