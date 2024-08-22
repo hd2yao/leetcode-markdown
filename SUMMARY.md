@@ -43,3 +43,5 @@
   * [🥳 day60](training/day60.md)
   * [😏 day63](training/day63.md)
   * [😁 day64](training/day64.md)
+  * [😳 day66（补）](readme/day66-bu.md)
+  * [🥴 day66](readme/day66.md)
