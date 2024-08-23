@@ -45,3 +45,4 @@
   * [😁 day64](training/day64.md)
   * [😳 day66（补）](readme/day66-bu.md)
   * [🥴 day66](readme/day66.md)
+  * [😮‍💨 day67](readme/day67.md)
