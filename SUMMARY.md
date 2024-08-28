@@ -48,3 +48,4 @@
   * [😮‍💨 day67](readme/day67.md)
   * [😒 day70](readme/day70.md)
   * [😎 day71](readme/day71.md)
+  * [😅 day72](readme/day72.md)
